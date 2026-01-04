@@ -137,7 +137,7 @@ Login as (admin/user):
 ├── docker-compose.yml # MySQL container config
 ├── requirements.txt   # Dependencies
 ├── README.md
-├── .gitignore
+
 ```
 
 ---
